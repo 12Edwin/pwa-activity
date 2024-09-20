@@ -1,6 +1,6 @@
 {
     "name": "Prueba PWA A1 - Edwin Barragan",
-    "start_url": "index.html",
+    "start_url": "/pwa-activity/index.html",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#5285F4",
